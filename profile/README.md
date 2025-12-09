@@ -2,6 +2,9 @@
 
 <a href="https://kycsecure.online" target="_blank">KYCsecure</a> envisions a world where no one gets hacked, and we recognize this is only possible by working together. The global KYCsecure community shapes our mission to empower individuals, teams, and organizations to safely manage their sensitive information online.
 
+[Demo](https://demo.scanidentity.online)
+[Docs](https://docs.scanidentity.online)
+
 #### Here, you can
 <ul>
     <li>Review code + release info/feature development
